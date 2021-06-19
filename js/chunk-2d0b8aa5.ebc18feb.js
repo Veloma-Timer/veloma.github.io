@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b8aa5"],{"303e":function(e,n,t){"use strict";t.r(n);var u=t("f2bf");function o(e,n,t,o,a,r){return Object(u["A"])(),Object(u["i"])("h1",null,"setup&props")}var a={name:"setup&props",setup:function(e,n){var t=Object(u["F"])("veloma"),o=Object(u["F"])("山东省青岛市");return setTimeout((function(){console.log("上下文",n),t.value="山竹",o.value="李沧区"}),2e3),{name:t,address:o}}};a.render=o;n["default"]=a}}]);
-//# sourceMappingURL=chunk-2d0b8aa5.ebc18feb.js.map
